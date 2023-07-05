@@ -1,4 +1,4 @@
-# VWO Amplitude Js Plugin
+# VWO Amplitude integration plugin
 
 This plugin allows to send VWO data to Amplitude using amplitude-js.
 
